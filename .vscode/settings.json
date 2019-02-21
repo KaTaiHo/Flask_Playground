@@ -7,9 +7,9 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "python.linting.pylintArgs": ["--load-plugins", "pylint_flask"],
-  "python.pythonPath": "flaskblog\\Scripts\\python.exe",
   "python.formatting.autopep8Args": ["--max-line-length", "80", "--experiment"],
   "python.formatting.autopep8Path": "autopep8",
   "python.formatting.provider": "autopep8",
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "python.pythonPath": "C:\\Users\\Ka Tai\\Anaconda2\\envs\\flaskblog\\python.exe"
 }
